@@ -1,0 +1,8 @@
+
+Name:
+age:
+Qualification:
+Experiance:
+Expected CTC:
+current CTC:
+
