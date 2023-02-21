@@ -1,8 +1,9 @@
 
-Name:
-age:
-Qualification:
-Experiance:
-Expected CTC:
-current CTC:
+Name: xxxx
+age: xxxx
+Qualification: xxxx
+Experiance:12+ 
+Expected CTC: 20
+current CTC: 15
+
 
